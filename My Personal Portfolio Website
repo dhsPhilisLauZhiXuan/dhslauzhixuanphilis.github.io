@@ -1,1 +1,22 @@
 # dhslauzhixuanphilis.github.io
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="style.css">
+<body>
+<h1> All About Me</h1>
+<title> This is my website </title>
+<img src="https://dhis.dhs.sg/data/photos/3C6F8AE9-844C-42A2-A166-D18599EA0044.jpg"/>
+<p>
+My name is Philis Lau. I am a student of Dunman High School. Currently in 1st year high school. </p>
+<p>
+Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>. </p>
+<br>
+<p>Here are the things I love to do the most : </p> 
+<ul>
+<li>Dancing</li>
+
+<li>swimming</li>
+<li>watching anime</li>
+</ul>
+</body>
+</html>
